@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/we-want-to-know.iml" filepath="$PROJECT_DIR$/.idea/modules/we-want-to-know.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/we-want-to-know_main.iml" filepath="$PROJECT_DIR$/.idea/modules/we-want-to-know_main.iml" group="we-want-to-know" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/we-want-to-know_test.iml" filepath="$PROJECT_DIR$/.idea/modules/we-want-to-know_test.iml" group="we-want-to-know" />
+    </modules>
+  </component>
+</project>
